@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+</head>
+
+<body>
+<div id='title'>
+<h1>Terremotos de Chile desde 2000</h1>
+</div>
+<div id='details'>
+
+	<span id="nombre">Nombre</span>
+	<span id="regiones">Location</span>
+	<!-- <span id="fecha">fecha</span> -->
+	
+	<span id="muertos">3000</span>
+	<span id="magnitud">6.7</span>
+	<span id="tzunami"><img src="tzunami.png" /></span>
+</div>
+<div id='myMap'></div>
+
+
+</body>
+
+
+<style>
+*{
+	font-family:sans-serif;
+}
+
+#myMap{
+	position:absolute;
+	width: 200px;
+	height: 800px;
+	border: 0px solid #333;
+	left:30px;
+	top:0px;
+}
+
+#details {
+	position:absolute;
+	left:250px;
+	top: 145px;
+	width:500px;
+	height:500px;
+	transition: 500ms ease all;
+	opacity:0;
+}
+
+#title{
+	position:absolute;
+	left:250px;
+	top:20px;
+	
+	
+}
+
+h1{
+	font-size:36px;
+	font-weight:200;
+	color: #777;
+}
+
+span {
+	display:block;
+	margin-top: 6px;
+}
+
+#nombre{font-size: 18px;font-weight: 800;color: #333;}
+
+#regiones{font-size: 16px;font-weight: 200;font-style:italic;}
+
+#muertos:after{content:' muertos';font-size: 16px;font-weight: 500;text-transform: uppercase;color: #444;}
+
+#tzunami img{
+	height: 120px;
+}
+
+#tzunami{position: absolute;top: 224px;margin-left: 121px;}
+
+#muertos{
+transition: 500ms ease all;
+	font-size: 60px;
+	margin-top: 59px;
+	font-weight: 700;
+	color: #970b0b;
+}
+
+#magnitud{width: 100px;transition: 500ms all ease; height: 100px;border: 1px solid;text-align: center;line-height: 100px;border-radius: 10000px;margin-top: 43px;font-size: 20px;background: #881d0f;color: #fff;}
+#magnitud:after{content:"MW";font-size: 12px;}
+
+
+
+
+
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-2.34.0.min.js"></script>
+<script src="data.js"></script>
+<script src="script.js"></script>
+
+</html>

@@ -1,0 +1,36 @@
+﻿Fecha,Nombre,Coordenadas,Zonas,Magnitud,Tzunami,Muertos
+24 de julio de 2001 (01:00),Tarapacá de 2001,"-19.000, -70.000",I y II regiones,6.5,FALSE,1
+18 de abril de 2002 (12:08),Copiapó de 2002,"-27.535, -70.586",II y III regiones,6.8,FALSE,0
+18 de junio de 2002 (09:56),Coquimbo de 2002,"-30.805, -71.124",IV región,6.7,FALSE,0
+20 de junio de 2003 (09:30),Coquimbo de 2003,"-30.653, -71.533",IV y V regiones,6.8,FALSE,0
+2 de mayo de 2004 (00:36),Angol de 2004,"-37.695, -73.406","VII, VIII y IX regiones",6.7,FALSE,0
+28 de agosto de 2004 (09:41),Curicó de 2004,"-35.173, -70.525",V hasta VIII región,6.6,FALSE,0
+13 de junio de 2005 (18:44),Tarapacá de 2005,"-19.895, -69.125",I región,7.9,FALSE,11
+30 de abril de 2006 (15:17),Copiapó de 2006,"-27.017, -71.022",III región,6.8,FALSE,0
+21 de abril de 2007 (13:53),Aysén de 2007,"-45.266, -72.496",XI región,6.3,TRUE,10
+14 de noviembre de 2007 (12:40),Tocopilla de 2007,"-22.314, -70.078",I y II regiones,7.7,FALSE,2
+4 de febrero de 2008 (14:01),Iquique de 2008,"-20.166, -70.037","XV, I y II regiones",6.4,FALSE,0
+13 de noviembre de 2009 (00:05),Iquique de 2009,"-19.394, -70.321","XV, I y II regiones",6.6,FALSE,0
+27 de febrero de 2010 (03:34),Cauquenes de 2010,"-36.290, -73.239","IV, V, VI, VII, XVI, VIII, IX, X, XIV regiones y R.M.",8.8,TRUE,521
+11 de marzo de 2010 (11:39),Pichilemu de 2010,"-34.259, -71.929","V, VI, VII, XVI y VIII regiones y R.M.",7.0,FALSE,2
+2 de enero de 2011 (17:20),Tirúa de 2011,"-38.350, -73.270",VIII y IX regiones,7.3,FALSE,0
+25 de marzo de 2012 (19:37),Constitución de 2012,"-35.120, -72.130",V a VIII regiones,7.2,FALSE,2
+17 de abril de 2012 (00:50),Zapallar de 2012,"-32.625, -71.365","IV, V, VI, VII regiones y R.M.",6.8,FALSE,2
+30 de enero de 2013 (17:15),Vallenar de 2013,"-28.060, -70.840",III a VIII regiones,6.9,FALSE,1
+16 de marzo de 2014 (18:16),Iquique de 2014,"-19.960, -70.810","XV, I y II regiones",6.8,FALSE,0
+1 de abril de 2014 (20:46),Iquique de 2014,"-19.630, -70.860","XV, I y II regiones",8.3,TRUE,7
+2 de abril de 2014 (23:43),Iquique de 2014,"-20.545, -70.418","XV, I, II y III regiones",7.7,TRUE,0
+8 de octubre de 2014 (21:14),Isla de Pascua de 2014,"-32.110, -110.770",V región,7.1,FALSE,0
+16 de septiembre de 2015 (19:54),Coquimbo de 2015,"-31.535, -71.919","III, IV, V, VI, VII, XVI, VIII, IX regiones y R.M.",8.4,TRUE,15
+25 de diciembre de 2016 (11:22),Chiloé de 2016,"-43.517, -74.391","VIII, IX, XIV, X y XI regiones",7.6,FALSE,0
+24 de abril de 2017 (18:38),Valparaíso de 2017,"-33.070, -72.382","IV, V, VI, VII, XVI, VIII regiones y R.M.",6.9,FALSE,0
+19 de enero de 2019 (22:32),Coquimbo de 2019,"-30.276, -71.364","III, IV, V, VI y R.M.",6.7,FALSE,2
+3 de junio de 2020 (03:35),San Pedro de Atacama de 2020,"-23.247, -68.530","XV, I, II y III regiones",6.9,FALSE,0
+17 de julio de 2020 (01:40),Iquique de 2020,"-20.235, -70.140","XV, I y II regiones",5.9,FALSE,0
+1 de septiembre de 2020 (00:09),Vallenar de 2020,"-27.960, -71.240","II, III, IV, V regiones y R.M.",7.0,FALSE,0
+11 de septiembre de 2020 (04:35),Quillagua de 2020,"-21.363, -69.907","XV, I y II regiones",6.3,FALSE,0
+23 de enero de 2021 (20:36),Shetland del Sur de 2021,"-61.900, -55.000",XII región,7.1,FALSE,0
+28 de julio de 2022 (00:15),Tocopilla de 2022,"-21.931, -70.339","I, II y III regiones",6.1,FALSE,0
+12 de noviembre de 2022 (23:24),Lebu de 2022,"-37.465, -73.676","VII, XVI, VIII, IX y XIV regiones",6.2,FALSE,0
+30 de marzo de 2023 (14:34),Cobquecura de 2023,"-35.666, -73.497","VII, XVI y VIII regiones",6.3,FALSE,0
+18 de julio de 2024 (21:50),San Pedro de Atacama de 2024,"-23.047, -67.782","XV, I, I, III y IV regiones",7.4,FALSE,1
